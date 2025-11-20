@@ -1,4 +1,9 @@
 # Simulacro-CEPLAN
+repo-ceplan/
+├── Nuevabasse.csv    
+├── script_limpieza.R         
+└── README.md                 
+
 # Análisis de Indicadores CEPLAN
 
 ## Descripción
